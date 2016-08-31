@@ -1,0 +1,11 @@
+site_name: MkDocs PowerShell Module
+theme: psinder
+pages:
+    - About:                        index.md
+    - Tutorials:
+        - Getting Started:          tutorials/getting-started.md
+    - Concepts:
+        - about_MkDocs_Projects:    concepts/MkDocs_Projects.md
+    - Reference:
+        - Functions:
+            - New-MkDocsProject:    reference/functions/New-MkDocsProject.md
